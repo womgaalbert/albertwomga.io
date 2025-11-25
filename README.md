@@ -70,15 +70,14 @@ Includes normalization, augmentation, convolution blocks, dropout, and evaluatio
 
 | Category | Tools & Technologies |
 |---------|----------------------|
-| **Languages** | Python, R, SQL |
+| **Languages** | Python, SQL |
 | **ML/DL Frameworks** | PyTorch, TensorFlow, Keras, scikit-learn |
 | **Time-Series & Sensors** | LSTM, GRU, Transformers, feature engineering |
-| **NLP** | spaCy, NLTK, Transformers |
+| **NLP** |  NLTK, Transformers |
 | **Computer Vision** | OpenCV, CNNs |
 | **Big Data** | Spark, Hadoop, PySpark |
 | **Cloud** | AWS, Google Cloud |
 | **Data Tools** | Pandas, NumPy, SciPy, Tableau |
-| **MLOps** | Git, GitHub, Docker |
 | **Domains** | Education AI, Healthcare analytics, Legal automation, IoT analytics |
 
 ---
