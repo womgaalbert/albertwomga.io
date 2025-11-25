@@ -4,49 +4,51 @@
 # -----------------------------------------
 
 title: "Albert Tchaptchet Womga"
+logo: "/assets/img/my_photo.jpg"
 description: "AI & Machine Learning Specialist | Data Scientist | Sensor Fusion & Time-Series Expert"
-
-# Use an official GitHub Pages theme (this was 'jekyll-theme-monimal' before, which does not exist)
+show_downloads: true
 theme: jekyll-theme-minimal
+# Use an official GitHub Pages theme (this was 'jekyll-theme-monimal' before, which does not exist)
+lang: en
 
 # URL settings (optional but recommended)
-url: "https://womgaalbert.github.io"   # your GitHub Pages root URL
-baseurl: ""                            # keep empty for user/organization site
+#url: "https://womgaalbert.github.io"   # your GitHub Pages root URL
+#baseurl: ""                            # keep empty for user/organization site
 
 # ------------------------------------------------
 # Profile image (make sure this file exists in your repo)
 # ------------------------------------------------
 # Put your photo at: /assets/img/albert-profile.jpg
 # for example: <repo_root>/assets/img/albert-profile.jpg
-logo: "/assets/img/my_photo.jpg"
+
 
 # ------------------------------------------------
 # Author / personal info
 # ------------------------------------------------
-author:
-  name: "Albert Tchaptchet Womga"
-  email: "albtchap@gmail.com"
-  location: "Ottawa, Ontario, Canada"
-  github: "womgaalbert"
-  linkedin: "albert-womga-009a7931"
+#author:
+#  name: "Albert Tchaptchet Womga"
+#  email: "albtchap@gmail.com"
+#  location: "Ottawa, Ontario, Canada"
+#  github: "womgaalbert"
+#  linkedin: "albert-womga-009a7931"
 
 # ------------------------------------------------
 # Social links (used by many themes / includes)
 # ------------------------------------------------
-social_links:
-  github: "https://github.com/womgaalbert"
-  linkedin: "https://www.linkedin.com/in/albert-womga-009a7931/"
-  email: "mailto:albtchap@gmail.com"
+#social_links:
+#  github: "https://github.com/womgaalbert"
+#  linkedin: "https://www.linkedin.com/in/albert-womga-009a7931/"
+#  email: "mailto:albtchap@gmail.com"
 
 # ------------------------------------------------
 # Build & markdown settings
 # ------------------------------------------------
-markdown: kramdown
-highlighter: rouge
+#markdown: kramdown
+#highlighter: rouge
 
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+#plugins:
+ # - jekyll-feed
+  #- jekyll-seo-tag
 
 # Optional: pages to show in top navigation if your theme supports it
 # (uncomment & adjust if you create these files)
