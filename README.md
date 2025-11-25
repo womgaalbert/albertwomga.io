@@ -47,7 +47,7 @@ Training ensemble models — Expected RMSE ~285 kg DM/ha.
 
 ---
 
-## <span style="color:#0055ff"> 🧩 **MAP Project Deployment (In Progress)**</span>  
+##  🧩 <span style="color:#0055ff">**MAP Project Deployment (In Progress)**</span>  
 🔗 GitHub: **https://github.com/womgaalbert/MAP-Charting-Student-Math-Misunderstandings-Deployment**  
 Deploying the MAP misconception detection system as a web-ready service:  
 - API design using FastAPI  
