@@ -26,18 +26,19 @@ I’m passionate about:
 # 🔥 **What I’m Working On (2024–2025 Projects)**
 
 ### 📘 **MAP – Charting Student Math Misunderstandings**  
-🔗 https://github.com/womgaalbert/MAP-Charting-Student-Math-Misunderstandings  
+🔗 **GitHub:** https://github.com/womgaalbert/MAP-Charting-Student-Math-Misunderstandings  
 NLP system detecting student misconceptions using transformers and advanced linguistic modeling.
 
 ---
 
 ### 🧠 **ARC-2025 Hybrid – Abstract Reasoning (CNN + DSL)**  
-🔗 https://github.com/womgaalbert/arc-2025-hybrid  
+🔗 **GitHub:** https://github.com/womgaalbert/arc-2025-hybrid  
 Hybrid neural-symbolic model for ARC tasks combining CNN feature extraction with rule-based reasoning.
 
 ---
 
 ### ✈️ **FlightRank RecSys Model – Aeroclub Cup 2025**  
+🔗 **GitHub:** https://github.com/womgaalbert/FlightRank-2025  
 Personalized flight ranking engine for business travelers.  
 **Metric:** HitRate@3  
 **Focus:** ranking algorithms, user-intent modeling, group-wise scoring.
@@ -45,18 +46,21 @@ Personalized flight ranking engine for business travelers.
 ---
 
 ### 🎧 **BFRB Gesture Classification – Sensor Fusion**  
+🔗 **GitHub:** https://github.com/womgaalbert/BFRB-Detection-Sensor-Fusion  
 Multimodal ML system detecting Body-Focused Repetitive Behaviors using IMU, thermopile, and ToF sensor data.  
 **Models:** LSTM, GRU, Transformers, temporal convolution.
 
 ---
 
 ### 🔋 **Energy-ARIMA-Forecasting**  
+🔗 **GitHub:** https://github.com/womgaalbert/Energy-ARIMA-Forecasting  
 SARIMA & ARIMA forecasting pipeline for U.S. Industrial Energy Production.  
 Includes Box-Cox transformations, diagnostics, and error metrics.
 
 ---
 
 ### 📸 **ConvNet CIFAR-10 Classifier**  
+🔗 **GitHub:** https://github.com/womgaalbert/ConvNet-CIFAR10  
 Custom CNN architecture for CIFAR-10 image classification.  
 Includes normalization, augmentation, convolution blocks, dropout, and evaluation.
 
@@ -82,24 +86,28 @@ Includes normalization, augmentation, convolution blocks, dropout, and evaluatio
 # 📂 **Featured Repositories**
 
 ### 🔹 **MAP – Charting Student Math Misunderstandings**  
-➡ NLP for detecting student errors  
+➡ NLP for detecting student reasoning errors  
 https://github.com/womgaalbert/MAP-Charting-Student-Math-Misunderstandings  
 
 ### 🔹 **ARC-2025 Hybrid Model**  
-➡ Hybrid CNN + symbolic reasoning  
+➡ Hybrid CNN + symbolic reasoning system  
 https://github.com/womgaalbert/arc-2025-hybrid  
 
 ### 🔹 **FlightRank RecSys Model**  
 ➡ Flight recommendations with ranking algorithms  
+https://github.com/womgaalbert/FlightRank-2025  
 
 ### 🔹 **BFRB Sensor Fusion System**  
 ➡ Behaviour detection from multimodal time-series data  
+https://github.com/womgaalbert/BFRB-Detection-Sensor-Fusion  
 
 ### 🔹 **Energy-ARIMA-Forecasting**  
 ➡ ARIMA/SARIMA forecasting pipeline  
+https://github.com/womgaalbert/Energy-ARIMA-Forecasting  
 
 ### 🔹 **ConvNet CIFAR-10 Classifier**  
 ➡ Deep learning CNN for image classification  
+https://github.com/womgaalbert/ConvNet-CIFAR10  
 
 ---
 
