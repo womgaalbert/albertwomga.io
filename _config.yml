@@ -1,0 +1,62 @@
+# -----------------------------------------
+# GitHub Pages Configuration
+# Albert TCHAPTCHET WOMGA
+# -----------------------------------------
+
+title: "Albert Tchaptchet Womga"
+description: "AI & Machine Learning Specialist | Data Scientist | Sensor Fusion & Time-Series Expert"
+theme: minima
+
+# --------------------
+# Profile Image
+# --------------------
+# Replace 'my_photo.jpg' with your actual image filename
+avatar: /assets/img/my_photo.jpg
+
+# --------------------
+# Author Information
+# --------------------
+author:
+  name: "Albert Tchaptchet Womga"
+  email: "albtchap@gmail.com"
+  linkedin: "https://www.linkedin.com/in/albert-womga-009a7931/"
+  github: "https://github.com/womgaalbert"
+  location: "Ottawa, Ontario, Canada"
+
+# --------------------
+# Social Links
+# --------------------
+minima:
+  social_links:
+    github: womgaalbert
+    linkedin: albert-womga-009a7931
+    email: mailto:albtchap@gmail.com
+
+# --------------------
+# Markdown & Build Settings
+# --------------------
+markdown: kramdown
+highlighter: rouge
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# --------------------
+# SEO Settings
+# --------------------
+seo:
+  type: "Person"
+  name: "Albert Tchaptchet Womga"
+  github_username: "womgaalbert"
+  linkedin: "albert-womga-009a7931"
+  description: "AI & ML Specialist, Data Scientist, specializing in sensor fusion, time-series modeling, NLP, CV, and applied machine learning."
+
+# --------------------
+# Navigation (Optional)
+# --------------------
+header_pages:
+  - index.md
+  - projects.md
+  - about.md
+  - contact.md
