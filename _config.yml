@@ -5,7 +5,9 @@
 
 title: "Albert Tchaptchet Womga"
 description: "AI & Machine Learning Specialist | Data Scientist | Sensor Fusion & Time-Series Expert"
-#theme: minima
+show_downloads : true 
+theme: jekyll-theme-monimal
+
 
 # --------------------
 # Profile Image
