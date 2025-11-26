@@ -60,6 +60,7 @@ Deploying the MAP misconception detection system as a web-ready service:
 
 ---
 
+
 # 💼 **Technical Expertise**
 
 | Category | Tools & Technologies |
@@ -78,7 +79,7 @@ Deploying the MAP misconception detection system as a web-ready service:
 
 # 🔥 **Completed Projects**
 
-## <a style="color🟢;">📘 **1. MAP – Charting Student Math Misunderstandings** </a> 
+## <a style="color:green;">📘 **1. MAP – Charting Student Math Misunderstandings** </a> 
 🔗 GitHub: **https://github.com/womgaalbert/MAP-Charting-Student-Math-Misunderstandings**  
 AI system detecting K–12 math misconceptions from short student explanations.  
 **Highlights:**  
@@ -90,7 +91,7 @@ AI system detecting K–12 math misconceptions from short student explanations.
 
 ---
 
-## <a style="color:blue;">🧠 **2. ARC-2025 Hybrid – Abstract Reasoning (CNN + DSL)**  
+## ** <a style="color:green;">🧠 2. ARC-2025 Hybrid – Abstract Reasoning (CNN + DSL)**  
 🔗 GitHub: **https://github.com/womgaalbert/arc-2025-hybrid**  
 Hybrid AI system designed for ARC reasoning tasks integrating:  
 - CNN / U-Net for visual grid feature extraction  
@@ -101,7 +102,7 @@ Hybrid AI system designed for ARC reasoning tasks integrating:
 
 ---
 
-## ✈️ **3. FlightRank 2025 – Aeroclub RecSys Cup**  
+## **<a style="color:green;">✈️ 3. FlightRank 2025 – Aeroclub RecSys Cup**  
 🔗 GitHub: **https://github.com/womgaalbert/FlightRank-2025**  
 Personalised recommendation system for business-traveller flights.  
 **Core Features:**  
@@ -113,7 +114,7 @@ Personalised recommendation system for business-traveller flights.
 
 ---
 
-## 🎧 **4. BFRB Gesture Classification – Sensor Fusion**  
+## **<a style="color:green;">🎧 4. BFRB Gesture Classification – Sensor Fusion**  
 🔗 GitHub: **https://github.com/womgaalbert/BFRB-Detection-Sensor-Fusion**  
 Multimodal time-series classification for detecting **Body-Focused Repetitive Behaviours (BFRBs)**.  
 **Modalities:**  
@@ -152,15 +153,35 @@ Custom CNN trained from scratch for CIFAR-10 image classification.
 - AdamW + Cosine LR schedule  
 - Training visualisations + accuracy & loss curves  
 
+## 📸 **7. Handwritten-Digit-Classification---MLP-vs.-CNN-with-Dropout-Gaussian-Noise-on-MNIST**  
+🔗 GitHub: **https://github.com/womgaalbert/Handwritten-Digit-Classification---MLP-vs.-CNN-with-Dropout-Gaussian-Noise-on-MNIST**  
+Custom CNN trained from scratch for CIFAR-10 image classification.  
+**Components:**  
+- Convolution layers + Batch Norm  
+- Dropout regularisation  
+- Data augmentation  
+- AdamW + Cosine LR schedule  
+- Training visualisations + accuracy & loss curves  
+
+## 📸 🔢 **7.Handwritten Digit Classification – MLP vs. CNN
+🔗 GitHub: https://github.com/womgaalbert/Handwritten-Digit-Classification---MLP-vs.-CNN-with-Dropout-Gaussian-Noise-on-MNIST
+Side-by-side comparison of **MLP** and **CNN** on **MNIST**, each tested with Dropout and Gaussian Noise regularization.
+**Components:**
+
+- Baseline MLP & CNN architectures
+- Dropout (rate=0.5) regularization
+- Gaussian Noise injection (stddev=0.2)
+- Adam optimizer + categorical crossentropy
+- Accuracy/loss curves + confusion matrix + misclassification analysis
 
 
 # 🧭 **Professional Experience**
 
 ### **Data Scientist – CM Avocats (Quebec, Canada)**  
-- AI automation & intelligent scheduling  
+- AI automation & intelligent scheduling  Data-Centric Financial Management and Accounting
 - NLP for legal document drafting  
-- Predictive financial modeling  
-- Machine-learning workflow optimization  
+- Design and maintain robust legal data backup and security protocols  
+
 
 ### **Data Scientist – Ministry of Secondary Education (Cameroon)**  
 - National-scale education analytics for 15,000+ schools  
