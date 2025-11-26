@@ -25,10 +25,11 @@ I’m passionate about:
 
 # 🔥 **What I’m Working On (2024–2025 Projects)**
 
-# 🚧 **Ongoing Projects**
+# 🚧 <a1 style="color:blue;">Ongoing Projects (In Progress)</a1>
 
 ## <span style="color:#0055ff">🌾 **CSIRO Image2Biomass Prediction (In Progress)**</span>  
-🔗 GitHub: **https://github.com/womgaalbert/csiro-image2biomass-prediction**  
+<a href="https://github.com/womgaalbert/csiro-image2biomass-prediction" style="color:blue;">github.com/womgaalbert/csiro-image2biomass-prediction</a>
+
 RGB image-based pasture biomass prediction using deep learning & multimodal fusion.  
 **Challenge:** Kaggle CSIRO Image2Biomass Challenge  
 **Target:** RMSE < **300 kg DM/ha**  
@@ -46,17 +47,12 @@ PyTorch, TIMM, Albumentations, OpenCV, scikit-learn, LightGBM
 Training ensemble models — Expected RMSE ~285 kg DM/ha.
 
 ---
-<a style="color:blue;">Ongoing Projects (In Progress)</a>
+
 <h3 style="color:blue;">Ongoing Projects [In Progress]</h3>
 
-
-<a href="https://github.com/womgaalbert/csiro-image2biomass-prediction" style="color:blue;">github.com/womgaalbert/csiro-image2biomass-prediction</a>
-
+##  🧩<a style="color:blue;">**MAP Project Deployment (In Progress)**</a>
 <a href="https://github.com/womgaalbert/MAP-Charting-Student-Math-Misunderstanding-Deployment" style="color:blue;">github.com/womgaalbert/MAP-Charting-Student-Math-Misunderstanding-Deployment</a>
 
-# ##   🧩 <span style="color:#0055ff">**MAP Project Deployment (In Progress)**</span>  
-##  🧩<h3 style="color:blue">**MAP Project Deployment (In Progress)**</h3>
-🔗 GitHub: **https://github.com/womgaalbert/MAP-Charting-Student-Math-Misunderstandings-Deployment**  
 Deploying the MAP misconception detection system as a web-ready service:  
 - API design using FastAPI  
 - Web app built with Streamlit  
