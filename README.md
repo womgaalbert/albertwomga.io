@@ -27,7 +27,7 @@ I’m passionate about:
 
 # 🚧 Ongoing Projects (In Progress)
 
-## <a1 style="color:blue;">🌾 **CSIRO Image2Biomass Prediction (In Progress)**</a1>  
+## **<a1 style="color:blue;">🌾 CSIRO Image2Biomass Prediction (In Progress)</a1>**  
 <a href="https://github.com/womgaalbert/csiro-image2biomass-prediction" style="color:blue;">github.com/womgaalbert/csiro-image2biomass-prediction</a>
 
 RGB image-based pasture biomass prediction using deep learning & multimodal fusion.  
@@ -48,7 +48,7 @@ Training ensemble models — Expected RMSE ~285 kg DM/ha.
 
 ---
 
-##  🧩<a style="color:blue;">**MAP Project Deployment (In Progress)**</a>
+##  **🧩<a1 style="color:blue;">MAP Project Deployment (In Progress)</a1>**
 <a href="https://github.com/womgaalbert/MAP-Charting-Student-Math-Misunderstanding-Deployment" style="color:blue;">github.com/womgaalbert/MAP-Charting-Student-Math-Misunderstanding-Deployment</a>
 
 Deploying the MAP misconception detection system as a web-ready service:  
