@@ -1,5 +1,5 @@
 # ⭐ **Albert TCHAPTCHET WOMGA**  
-### *AI & Machine Learning Specialist | Data Scientist | Sensor Fusion & Time-Series Expert*
+### *AI & Machine Learning Specialist | Data Scientist |  Expert*
 
 [![Email](https://img.shields.io/badge/Email-albtchap%40gmail.com-red?style=flat&logo=gmail)](mailto:albtchap@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Albert%20Womga-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/albert-womga-009a7931/)
@@ -92,7 +92,7 @@ AI system detecting K–12 math misconceptions from short student explanations.
 
 ---
 
-## ** <a style="color:green;">🧠 2. ARC-2025 Hybrid – Abstract Reasoning (CNN + DSL)</a>**
+## **<a style="color:green;">🧠 2. ARC-2025 Hybrid – Abstract Reasoning (CNN + DSL)</a>**
 🔗 GitHub: <a href="https://github.com/womgaalbert/arc-2025-hybrid" style="color:blue;">github.com/womgaalbert/arc-2025-hybrid</a>
 
 Hybrid AI system designed for ARC reasoning tasks integrating:  
@@ -161,7 +161,7 @@ Custom CNN trained from scratch for CIFAR-10 image classification.
 - Training visualisations + accuracy & loss curves  
 
 ## **<a style="color:green;">📸 🔢 7.Handwritten Digit Classification – MLP vs. CNN </a>**
-🔗 GitHub: https://github.com/womgaalbert/Handwritten-Digit-Classification---MLP-vs.-CNN-with-Dropout-Gaussian-Noise-on-MNIST
+
 🔗 GitHub: <a href="https://github.com/womgaalbert/Handwritten-Digit-Classification---MLP-vs.-CNN-with-Dropout-Gaussian-Noise-on-MNIST" style="color:blue;">github.com/womgaalbert/Handwritten-Digit-Classification---MLP-vs.-CNN-with-Dropout-Gaussian-Noise-on-MNIST</a>
 
 Side-by-side comparison of **MLP** and **CNN** on **MNIST**, each tested with Dropout and Gaussian Noise regularization.
@@ -183,7 +183,7 @@ Side-by-side comparison of **MLP** and **CNN** on **MNIST**, each tested with Dr
 
 
 ### **Data Scientist – Ministry of Secondary Education (Cameroon)**  
-- National-scale education analytics for 15,000+ schools  
+- National-scale education analytics for 5,000+ schools  
 - EMIS data integration & dashboards  
 - ML for policy optimization and student performance  
 - Predictive models for resource allocation  
