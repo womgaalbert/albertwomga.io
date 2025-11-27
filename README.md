@@ -49,7 +49,7 @@ Training ensemble models — Expected RMSE ~285 kg DM/ha.
 ---
 
 ##  **🧩<a1 style="color:blue;">MAP Project Deployment (In Progress)</a1>**
-<a href="https://github.com/womgaalbert/MAP-Charting-Student-Math-Misunderstanding-Deployment" style="color:blue;">github.com/womgaalbert/MAP-Charting-Student-Math-Misunderstanding-Deployment</a>
+<a href="https://github.com/womgaalbert/MAP-Charting-Student-Math-Misunderstandings-Deployment" style="color:blue;">github.com/womgaalbert/MAP-Charting-Student-Math-Misunderstanding-Deployment</a>
 
 Deploying the MAP misconception detection system as a web-ready service:  
 - API design using FastAPI  
@@ -79,8 +79,9 @@ Deploying the MAP misconception detection system as a web-ready service:
 
 # 🔥 **Completed Projects**
 
-## <a style="color:green;">📘 **1. MAP – Charting Student Math Misunderstandings** </a> 
-🔗 GitHub: **https://github.com/womgaalbert/MAP-Charting-Student-Math-Misunderstandings**  
+## **<a style="color:green;">📘 1. MAP – Charting Student Math Misunderstandings</a>**
+🔗 GitHub: <a href="https://github.com/womgaalbert/MAP-Charting-Student-Math-Misunderstandings" style="color:blue;">github.com/womgaalbert/MAP-Charting-Student-Math-Misunderstandings</a>
+
 AI system detecting K–12 math misconceptions from short student explanations.  
 **Highlights:**  
 - Transformer-based text classification  
@@ -91,8 +92,9 @@ AI system detecting K–12 math misconceptions from short student explanations.
 
 ---
 
-## ** <a style="color:green;">🧠 2. ARC-2025 Hybrid – Abstract Reasoning (CNN + DSL)**  
-🔗 GitHub: **https://github.com/womgaalbert/arc-2025-hybrid**  
+## ** <a style="color:green;">🧠 2. ARC-2025 Hybrid – Abstract Reasoning (CNN + DSL)</a>**
+🔗 GitHub: <a href="https://github.com/womgaalbert/arc-2025-hybrid" style="color:blue;">github.com/womgaalbert/arc-2025-hybrid</a>
+
 Hybrid AI system designed for ARC reasoning tasks integrating:  
 - CNN / U-Net for visual grid feature extraction  
 - Symbolic reasoning engine (DSL)  
@@ -102,8 +104,9 @@ Hybrid AI system designed for ARC reasoning tasks integrating:
 
 ---
 
-## **<a style="color:green;">✈️ 3. FlightRank 2025 – Aeroclub RecSys Cup**  
-🔗 GitHub: **https://github.com/womgaalbert/FlightRank-2025**  
+## **<a style="color:green;">✈️ 3. FlightRank 2025 – Aeroclub RecSys Cup</a>** 
+🔗 GitHub: <a href="https://github.com/womgaalbert/FlightRank-2025" style="color:blue;">github.com/womgaalbert/FlightRank-2025</a>
+
 Personalised recommendation system for business-traveller flights.  
 **Core Features:**  
 - Hybrid collaborative filtering + feature ranking  
@@ -114,8 +117,9 @@ Personalised recommendation system for business-traveller flights.
 
 ---
 
-## **<a style="color:green;">🎧 4. BFRB Gesture Classification – Sensor Fusion**  
-🔗 GitHub: **https://github.com/womgaalbert/BFRB-Detection-Sensor-Fusion**  
+## **<a style="color:green;">🎧 4. BFRB Gesture Classification – Sensor Fusion</a>**  
+🔗 GitHub: <a href="https://github.com/womgaalbert/BFRB-Detection-Sensor-Fusion" style="color:blue;">github.com/womgaalbert/BFRB-Detection-Sensor-Fusion</a>
+
 Multimodal time-series classification for detecting **Body-Focused Repetitive Behaviours (BFRBs)**.  
 **Modalities:**  
 - IMU accelerometers  
@@ -130,8 +134,9 @@ Multimodal time-series classification for detecting **Body-Focused Repetitive Be
 
 ---
 
-## 🔋 **5. Energy-ARIMA-Forecasting**  
-🔗 GitHub: **https://github.com/womgaalbert/Energy-ARIMA-Forecasting**  
+## **<a style="color:green;">🔋 5. Energy-ARIMA-Forecasting</a>**
+🔗 GitHub: <a href="https://github.com/womgaalbert/Energy-ARIMA-Forecasting" style="color:blue;">github.com/womgaalbert/Energy-ARIMA-Forecasting</a>
+
 Time-series forecasting of U.S. industrial energy production.  
 **Methods:**  
 - ARIMA / SARIMA  
@@ -143,8 +148,10 @@ Includes full notebook, visualisations & diagnostics.
 
 ---
 
-## 📸 **6. ConvNet CIFAR-10 Classifier**  
-🔗 GitHub: **https://github.com/womgaalbert/ConvNet-CIFAR10**  
+## **<a style="color:green;">📸 6. ConvNet CIFAR-10 Classifier**  
+
+🔗 GitHub: <a href="https://github.com/womgaalbert/ConvNet-CIFAR10" style="color:blue;">github.com/womgaalbert/ConvNet-CIFAR10</a>
+
 Custom CNN trained from scratch for CIFAR-10 image classification.  
 **Components:**  
 - Convolution layers + Batch Norm  
@@ -153,18 +160,10 @@ Custom CNN trained from scratch for CIFAR-10 image classification.
 - AdamW + Cosine LR schedule  
 - Training visualisations + accuracy & loss curves  
 
-## 📸 **7. Handwritten-Digit-Classification---MLP-vs.-CNN-with-Dropout-Gaussian-Noise-on-MNIST**  
-🔗 GitHub: **https://github.com/womgaalbert/Handwritten-Digit-Classification---MLP-vs.-CNN-with-Dropout-Gaussian-Noise-on-MNIST**  
-Custom CNN trained from scratch for CIFAR-10 image classification.  
-**Components:**  
-- Convolution layers + Batch Norm  
-- Dropout regularisation  
-- Data augmentation  
-- AdamW + Cosine LR schedule  
-- Training visualisations + accuracy & loss curves  
-
-## 📸 🔢 **7.Handwritten Digit Classification – MLP vs. CNN
+## **<a style="color:green;">📸 🔢 7.Handwritten Digit Classification – MLP vs. CNN </a>**
 🔗 GitHub: https://github.com/womgaalbert/Handwritten-Digit-Classification---MLP-vs.-CNN-with-Dropout-Gaussian-Noise-on-MNIST
+🔗 GitHub: <a href="https://github.com/womgaalbert/Handwritten-Digit-Classification---MLP-vs.-CNN-with-Dropout-Gaussian-Noise-on-MNIST" style="color:blue;">github.com/womgaalbert/Handwritten-Digit-Classification---MLP-vs.-CNN-with-Dropout-Gaussian-Noise-on-MNIST</a>
+
 Side-by-side comparison of **MLP** and **CNN** on **MNIST**, each tested with Dropout and Gaussian Noise regularization.
 **Components:**
 
