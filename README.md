@@ -148,7 +148,7 @@ Includes full notebook, visualisations & diagnostics.
 
 ---
 
-## **<a style="color:green;">📸 6. ConvNet CIFAR-10 Classifier**  
+## **<a style="color:green;">📸 6. ConvNet CIFAR-10 Classifier </a>**
 
 🔗 GitHub: <a href="https://github.com/womgaalbert/ConvNet-CIFAR10" style="color:blue;">github.com/womgaalbert/ConvNet-CIFAR10</a>
 
