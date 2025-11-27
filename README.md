@@ -71,11 +71,35 @@ Deploying the MAP misconception detection system as a web-ready service:
 | **NLP** |  NLTK, Transformers |
 | **Computer Vision** | OpenCV, CNNs |
 | **Big Data** | Spark, Hadoop, PySpark |
-| **Cloud** | Google Cloud |
 | **Data Tools** | Pandas, NumPy, SciPy, Tableau |
 | **Domains** | Education AI, Healthcare analytics, Legal automation, IoT analytics |
 
 ---
+## 🧰 My Stack & Tools
+
+<table align="center" style="border-collapse: collapse;">
+  <tr>
+    <td style="border-right: 1px solid #ccc; padding: 0 12px;">
+      <img src="assets/img/tensorflow.png" alt="TensorFlow" width="100" />
+    </td>
+    <td style="border-right: 1px solid #ccc; padding: 0 12px;">
+      <img src="assets/img/pytorch.png" alt="PyTorch" width="100" />
+    </td>
+    <td style="border-right: 1px solid #ccc; padding: 0 12px;">
+      <img src="assets/img/scikitlearn.png" alt="scikit-learn" width="100" />
+    </td>
+    <td>
+      <img src="assets/img/jupyter.png" alt="Jupyter" width="100" />
+    </td>
+    <td style="border-right: 1px solid #ccc; padding: 0 12px;">
+      <img src="assets/img/sql_icon.png" alt="scikit-learn" width="200" />
+    </td>
+    <td>
+      <img src="assets/img/spark.png" alt="Jupyter" width="200" />
+    </td>
+  </tr>
+</table>
+
 
 # 🔥 **Completed Projects**
 
@@ -231,5 +255,8 @@ Side-by-side comparison of **MLP** and **CNN** on **MNIST**, each tested with Dr
 <div align="center">
 
 ### ⭐ *Thanks for visiting — Let’s build impactful AI together.*
-
+<p align="center">
+  <!-- Screenshot / stacked image -->
+  <img src="assets/img/ai_ml.jpg" alt="Technologies I use" width="900" />
+</p>
 </div>
